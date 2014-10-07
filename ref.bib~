@@ -291,14 +291,6 @@ volume = "46",
 pages = "248",
 }
 
-@ARTICLE{jell,
-author = "G. E. Jellison and others",
-year = "2003",
-journal = "Journal of Applied Physics",
-volume = "93",
-pages = "9537",
-}
-
 @BOOK{jones,
 author = {R. A. L. Jones},
 year = 2002,
