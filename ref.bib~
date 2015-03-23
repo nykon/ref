@@ -564,7 +564,7 @@ volume = "46",
 pages = "248-254",
 }
 
-@ARTICLE {herr,
+@ARTICLE{herr,
 author = "C. Herring",
 year = "1940",
 title = "A new method for calculating wave functions in crystals",
@@ -572,6 +572,16 @@ journal = "Physical Review",
 volume = "57",
 pages = "1169-1177",
 }
+
+@ARTICLE{hong,
+author = "J. W. Hong and J. H. Pyeon and J. W. Tedesco",
+year = "2007",
+title = "Coersening model of cavity nucleation and thin film delamination from single-crystal BaTiO3 with proton implantation",
+journal = "Physical Review B",
+volume = "75",
+pages = "214102-213106",
+}
+
 
 @MISC{hyper1,
 author = "Georgia State University",
@@ -1409,6 +1419,15 @@ title = "",
 journal = "Math. -Fys. Meddr",
 volume = "37",
 pages = "",
+}
+
+@ARTICLE{yao,
+author = "J. H. Yao and K. R. Elder and H. Guo and M. Grant",
+year = "1993",
+title = "Theory and simulation of Oswald ripening",
+journal = "Physical Review B",
+volume = "47",
+pages = "14110-14125",
 }
 
 @ARTICLE{xh,
