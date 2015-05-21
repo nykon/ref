@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2013.3.7)  20 MAY 2015 08:56
+entering extended mode
+**C:/Users/szna_ma/Documents/GitHub/ref/ref.bib
+(C:/Users/szna_ma/Documents/GitHub/ref/ref.bib
+! Undefined control sequence.
+l.2  "\providecommand
+                     {\noopsort}[1]{}"
+? 
+! Emergency stop.
+l.2  "\providecommand
+                     {\noopsort}[1]{}"
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
